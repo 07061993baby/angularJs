@@ -1,0 +1,369 @@
+/* Styles go here */
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.mainContent
+{
+	box-sizing: border-box;
+	margin:0 auto;
+	
+}
+h3
+{
+	margin-top:0px !important;
+	margin-bottom: 0px !important;
+}
+.btna
+{
+    padding: 10px 30px;
+	border-radius: 0px !important;
+}
+.btnimg a:hover,a:focus{
+	text-decoration:none !important;
+	color:#fff !important;
+}
+.header
+{
+	border:none;
+	padding-top: 5px;
+	width:100%;
+	height:30px;
+	box-sizing:border-box;
+	display:inline-block;
+	position:fixed;
+	background-color:white;
+	z-index:2;
+}
+.carousel-content
+{
+	position: absolute;
+    bottom: 50%;
+    left: 40%;
+    z-index: 20;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+.carousel-content h2{
+	font-size: 3.5vw;
+}
+#logo
+{
+	color:orange;
+	margin-left:10px;
+}
+.menubar
+{
+	float:right;
+	color:grey;
+	
+}
+select
+{
+	border:none;
+	font-size:1vw;
+}
+.menubar li
+{	
+	font-size:16px;
+	display:inline;
+	padding-right:7px;
+}
+
+.MyContainer
+{
+	
+	height:auto;
+	border:none;
+  padding: 0px 60px 20px 60px;
+}
+.content
+{
+	border:none;
+	position:relative;
+	background-image:url("images/light_bulb.jpg");
+	height:250px;
+	background-position: top center;
+	background-size:cover;
+}
+.logoCaption
+{
+	color: #e5e5e5;
+    box-sizing: border-box;
+    text-align: center;
+}
+.logoCaption h1{
+	text-align: center;
+	padding-top: 92px;
+    margin: 0 auto;
+}
+#title
+{
+	font-size:3.5vw;
+}
+.button
+{
+	background-color: darkOrange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    height: 35px;
+}
+.butndiv 
+{
+    display: inline-block;
+    width: 30%;
+    margin-top: 40px;
+ 
+}
+.content1
+{
+	color: grey;
+    display: inline-block;
+     width:60%;
+    padding-left: 0px !important;
+	
+}
+.btnimg
+{
+	    position: absolute;
+    bottom: 10%;
+    z-index: 20;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    right: 2%;
+}
+.text
+{
+	color:#d32a0e;
+}
+.text-list
+{
+ padding-left: 10% !important;
+    color: grey;
+    display: inline-block;
+}			
+.mgtop20
+{
+  margin-top:20px;
+}
+.form-button 
+{
+  box-shadow: none;
+    padding: 4px 10px;
+    background-color: darkOrange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+}
+h4
+{
+  text-align: center;
+    color: #d32a0e;
+}
+.emailLbl label
+{
+	width: 100%;
+    float: left;
+    text-align: left;
+}
+	.emailLbl textarea
+{
+	width: 100%;
+}
+.modal-title{
+	font-weight: bold;
+}
+.formBtn
+{
+	text-align: center;
+}
+.contactpage 
+{
+  border: 3px solid #777;
+    padding: 0px 20px 20px 20px;
+    background-color: #ccc;
+    border-top: none;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.rowArticles{
+	position:relative;
+	box-sizing: border-box;
+    font-size: 16px;
+	text-align:left;
+}
+.articleBox1{
+	padding-left:0px !important;
+  
+}
+.articleBox1 .articleBox2 p{
+	height: auto;
+	box-sizing: border-box;
+	padding-bottom:10px;
+}
+.articleBox2 {
+	width: 60%;
+    height: 300px;
+    display: inline-flex;
+    display: -webkit-inline-flex;
+   
+}
+
+.divHeadings{
+	color: #d32a0e;
+    text-align: left;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 25px;
+
+}
+.divHeadings_main{
+	color: #d32a0e;
+    text-align: left;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 25px;
+   
+}
+.orders{
+	height: auto;
+	margin-bottom:10px;
+	display: inline-block;
+}
+.orders s
+{
+	color:grey;
+	width: auto;
+}
+.contents{
+	padding-right: 10px;
+	padding-top: 5px;
+}
+.contents p
+{
+	box-sizing:border-box;
+}
+
+#fig1{
+	
+	background-image:url(images/pepper.jpg);
+	position: relative;
+	display: block;
+	width: auto;
+	height: 254px;
+	background-size:cover;
+}
+
+.inputType{
+	border-style: solid;
+    border-right-color: orange;
+	border-radius: 5px 0 0 5px;
+	width: 85px;
+	height: 30px;
+}
+.pageThree 
+{
+	position:  absolute;
+	top: 65%;
+	padding-left: 10px;
+}
+.modal-body
+{
+	padding:0px !important;
+}
+.modal-header
+{
+	border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background-color: #ccc;
+    border-bottom:none !important;
+    border: 3px solid #777;
+}
+.modal-dialog {
+	margin-top: 10%;
+}
+	.modal-content
+{
+	width: fit-content;
+	border-radius: 50px !important;
+}
+
+@media screen and (max-device-width: 320px){ 
+    .MyContainer
+	{
+ 	 padding: 10px;
+	} 
+	.butndiv
+	{
+		margin-top:0px;
+		margin-bottom:10px;
+	}
+	.pageThree 
+	{
+	top: 100%;
+	}
+.articleBox2{
+	padding-top:20px;
+}
+
+@media screen and (min-device-width: 360px) and (max-device-width: 440px) { 
+    .MyContainer
+	{
+ 	 padding: 20px;
+	} 
+	.butndiv
+	{
+		margin-top:0px;
+		margin-bottom:10px;
+	}
+	.pageThree 
+{
+	position:  absolute;
+	top: 90%;
+}
+.modal-dialog
+	{
+		width: 320px !important;
+	}
+}
+@media screen and (min-device-width: 360px) and (max-device-width: 768px) { 
+    .MyContainer
+	{
+ 	 padding: 20px;
+	} 
+	.articleBox2
+	{
+		padding-top: 20px;
+	}
+}
+@media screen and (min-device-width: 440px) and (max-device-width: 768px){
+	.modal-dialog
+	{
+		width: 350px !important;
+	}
+	
+}
+@media screen and (min-width: 768px){
+	.modal-dialog
+	{
+		width: 350px !important;
+	}
+	
+}
+
+@media screen and (min-device-width: 1024px) and (max-device-width: 1366px) { 
+ 	.pageThree 
+{
+	position:  absolute;
+	top: 75%;
+}
+
+}
+ 

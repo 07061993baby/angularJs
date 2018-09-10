@@ -1,0 +1,62 @@
+.rowArticles{
+	position:relative;
+	box-sizing: border-box;
+    font-size: 16px;
+	text-align:left;
+}
+
+.articleBox p{
+	height: auto;
+	box-sizing: border-box;
+	padding-bottom:10px;
+}
+.divHeadings{
+	color: #d32a0e;
+    text-align: left;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serifGeorgia;
+    font-size: 20px;
+}
+.orders{
+	height: auto;
+	margin-bottom:10px;
+	display: inline-block;
+}
+
+img#fig21 {
+    width: 100%;
+}
+.contents p
+{
+	box-sizing:border-box;
+	color: grey;
+    display: inline-block;
+}
+.addCart
+{
+	background-color:orange;
+	color:white;
+	border: none;
+	border-radius: 0 5px 5px 0;
+	width: 95px;
+	height: 30px;
+}
+
+.text-list1{
+	color: grey;
+    display: inline-block;
+}
+.content2
+{
+	position: absolute;
+	
+}
+
+.details
+{
+	color:grey;
+	font-size:18px;
+	text-align:center;
+	line-height:1rem;
+}
+
+
